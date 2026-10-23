@@ -1,0 +1,26 @@
+{
+  "channel_names": {
+    "0": "noNorm"
+  },
+  "labels": {
+    "background": 0,
+    "BA": 1,
+    "R-PCA": 2,
+    "L-PCA": 3,
+    "R-ICA": 4,
+    "R-MCA": 5,
+    "L-ICA": 6,
+    "L-MCA": 7,
+    "R-Pcom": 8,
+    "L-Pcom": 9,
+    "Acom": 10,
+    "R-ACA": 11,
+    "L-ACA": 12,
+    "3rd-A2": 13
+  },
+  "numTraining": 250,
+  "file_ending": ".nii.gz",
+  "overwrite_image_reader_writer": "SimpleITKIO",
+  "name": "Dataset192_CSAROIFold0",
+  "description": "Predicted ROI TopCoW mixed CTA/MRA multiclass dataset with IMR-style clip[-1000,1800]+minmax input normalization and nnU-Net NoNormalization."
+}

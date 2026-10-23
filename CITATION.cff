@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this software and the relevant underlying methods when using CSA."
+title: "CSA: Multiclass Circle of Willis Segmentation with Connectivity-Aware Supervision and Attention"
+type: software
+version: 0.1.0
+date-released: 2026-10-23
+license: Apache-2.0
+repository-code: "https://github.com/Snailrider00/CSA"
+authors:
+  - family-names: Zhuang
+    given-names: Siyu
+    orcid: "https://orcid.org/0009-0001-6985-4405"
+  - family-names: Zhu
+    given-names: Yueqi
+    orcid: "https://orcid.org/0000-0001-5476-9075"

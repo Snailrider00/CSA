@@ -1,0 +1,82 @@
+[
+  {
+    "file": "configs/dataset.json",
+    "bytes": 595,
+    "sha256": "aa13a125fcc0954a6cd5c30f8d9756626cea821ffd54b6db856018827babd55f"
+  },
+  {
+    "file": "configs/nnUNetPlans.json",
+    "bytes": 4178,
+    "sha256": "d7da2e8b8bed6ba6d0ef8653401d950772f0c119b1eaa7ab055449e5e29dd1c1"
+  },
+  {
+    "file": "configs/splits_final.json",
+    "bytes": 28992,
+    "sha256": "946605feec2b2aaf64219c0b538fe1acbd3d7b0653a4fbef331ba24a8c1ba18a"
+  },
+  {
+    "file": "nnunet_overlay/nnunetv2/training/dataloading/data_loader_skel_weight.py",
+    "bytes": 4959,
+    "sha256": "544b6fdcfbca245733c69d34c7fb1efc92ecfd20434fbc4a2060f2b15a9b0cd0"
+  },
+  {
+    "file": "nnunet_overlay/nnunetv2/training/loss/connectivity_aware_losses.py",
+    "bytes": 4334,
+    "sha256": "66f0810d8036cea27ae65d7a177ffd4e2e7cde921c5b387679303743747b17db"
+  },
+  {
+    "file": "nnunet_overlay/nnunetv2/training/nnUNetTrainer/variants/loss/nnUNetTrainerConnectivityAwareTopCoW.py",
+    "bytes": 10996,
+    "sha256": "cbc369825e6b48a157ae673e020dfac1785f468e7da4e5bda17f21d2daa6998e"
+  },
+  {
+    "file": "nnunet_overlay/nnunetv2/training/nnUNetTrainer/variants/network_architecture/nnUNetTrainerTopCoWAttentionAblation.py",
+    "bytes": 19142,
+    "sha256": "69b08138f07e7fcc74a499630e6348aa289bbbf2f350f324118c1824dab0bfab"
+  },
+  {
+    "file": "nnunet_overlay/nnunetv2/training/nnUNetTrainer/variants/training_length/nnUNetTrainerTopCoWClean2000.py",
+    "bytes": 4356,
+    "sha256": "a0f8930aa7e3ededde13fb9ec44880ce5ce49718e8b538098f39928f96312297"
+  },
+  {
+    "file": "scripts/ensemble_probabilities.py",
+    "bytes": 2450,
+    "sha256": "db99b3f55041d30438f1718a33aec391c58cded1c5e727b0b7e1d76712ce76b7"
+  },
+  {
+    "file": "scripts/evaluate.py",
+    "bytes": 13227,
+    "sha256": "40cf2a0f3c1c3947578955aac9de89702b91cfe69dbd9030f8c458a43686f995"
+  },
+  {
+    "file": "scripts/install_overlay.py",
+    "bytes": 1709,
+    "sha256": "150a3f27ab812c21d1894c87cf6f1541b8594a8d84ba53ef84101c69edd5a0db"
+  },
+  {
+    "file": "scripts/postprocess.py",
+    "bytes": 6344,
+    "sha256": "10ea9a4cef487a0ba97cdb7891e29d4b0de378d066fa6274a5871902240b085a"
+  },
+  {
+    "file": "scripts/prepare_data.py",
+    "bytes": 5935,
+    "sha256": "d37d39b5eda73447f7b9c2fb22b080e56b9d99b9c8350fa6673e460f3e7479ac"
+  },
+  {
+    "file": "scripts/prepare_inference_roi.py",
+    "bytes": 1543,
+    "sha256": "bcb31fa7b2415e5172c75bfe434ea52723152fdfba9ad90df63431e20e3fd493"
+  },
+  {
+    "file": "scripts/train.py",
+    "bytes": 1630,
+    "sha256": "c9ebfe93aa3804ad84c91587c93628f66e6f3276b5cc1e33980ffb26facac3ff"
+  },
+  {
+    "file": "tests/test_release.py",
+    "bytes": 8221,
+    "sha256": "f8036cf1decefe6b3203658deb7010eb245fce0d16be6a828c97365c1ccb5a05"
+  }
+]

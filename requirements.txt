@@ -1,0 +1,4 @@
+nnunetv2==2.8.1
+scikit-image==0.26.0
+threadpoolctl
+dynamic-network-architectures==0.4.4

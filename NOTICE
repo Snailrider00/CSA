@@ -1,0 +1,16 @@
+CSA code release
+Copyright 2026 Siyu Zhuang and contributors.
+
+This project extends nnU-Net (https://github.com/MIC-DKFZ/nnUNet),
+Copyright its respective authors, licensed under Apache License 2.0.
+The LICENSE file is retained from the local nnU-Net distribution.
+The source files use nnU-Net's trainer, dataloader, loss and inference APIs.
+
+CAL is informed by Skeleton Recall supervision and the TopCoW IMR training
+configuration. RSA is related to Attention U-Net-style gating, and ECA to
+efficient channel attention; see the manuscript's methodological references.
+The postprocessing rules follow the TopCoW IMR approach. This repository does
+not redistribute third-party model containers, weights or medical image data.
+
+Dependencies and datasets retain their respective licenses. This code license
+does not grant rights to the TopCoW, IXI or Lausanne data.
